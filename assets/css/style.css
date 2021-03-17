@@ -1,6 +1,8 @@
+@import url("https://use.typekit.net/cdf2mdr.css");
+
 body {
   background-color: #ecf3ff;
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: Lato, Roboto, Arial, sans-serif;
   text-align: center;
 }
 
